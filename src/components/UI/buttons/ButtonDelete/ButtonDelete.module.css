@@ -1,0 +1,10 @@
+.buttonDelete {
+  width: 25px;
+  height: 25px;
+  border: 1px solid rgb(250, 94, 94);
+  border-radius: 5px;
+  margin-left: 5px;
+  cursor: pointer;
+  background-image: url("./ButtonDelete.svg");
+  background-size: cover;
+}

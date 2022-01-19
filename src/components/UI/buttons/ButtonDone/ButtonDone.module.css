@@ -1,0 +1,9 @@
+.buttonDone {
+  width: 25px;
+  height: 25px;
+  border: 1px solid rgb(27, 197, 42);
+  border-radius: 5px;
+  cursor: pointer;
+  background-image: url("./ButtonDone.png");
+  background-size: cover;
+}
